@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **T3 Stack, Next.js, Web Development**
 
-- 👯 My Area of Interest's are **Web Development, New Technologies**
+- 👯 My Interests are **Web Development, New Technologies**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ren0xx.vercel.app](https://portfolio-ren0xx.vercel.app)
 
