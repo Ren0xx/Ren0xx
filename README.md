@@ -86,5 +86,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ren0xx&show_icons=true&locale=pl" alt="ren0xx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ren0xx&theme=dark" alt="ren0xx" /></p>
-
