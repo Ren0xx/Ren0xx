@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ren0xx&label=Profile%20views&color=0e75b6&style=flat" alt="ren0xx" /> </p>
 
-- 🔭 I’m currently Studying [Computer Science](https://wumed.edu.pl)
+- 🔭 I graduated in [Computer Science](https://wumed.edu.pl)
 
-- 🌱 I’m currently learning **T3 Stack, Next.js, Web Development**
+- 🌱 I’m currently learning **T3 Stack, Next.js, Web Development, Nest.js**
 
-- 👯 My Interests are **Web Development, New Technologies**
+- 👯 My Interests are: **Web Development, New Technologies**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ren0xx.vercel.app](https://portfolio-ren0xx.vercel.app)
+- 👨‍💻 You can see some of my [projects](https://portfolio-ren0xx.vercel.app)
 
-- 📫 How to reach me **adamzaleski00@gmail.com**
+- 📄 Know about my [experiences](https://rxresu.me/zaleski/adam-zaleski-english)
 
-- 📄 Know about my experiences [https://rxresu.me/zaleski/adam-zaski](https://rxresu.me/zaleski/adam-zaski)
+- 📫 How to reach me: **adamzaleski00@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
