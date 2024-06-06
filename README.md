@@ -9,7 +9,7 @@
 
 - 👯 My Interests are: **Web Development, New Technologies**
 
-- 👨‍💻 You can see some of my [projects](https://portfolio-ren0xx.vercel.app)
+- 👨‍💻 You can see some of my [projects]([https://portfolio-ren0xx.vercel.app](https://portfolio-ren0xxs-projects.vercel.app/)
 
 - 📄 Know about my [experiences](https://rxresu.me/zaleski/adam-zaleski-english)
 
