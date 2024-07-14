@@ -11,7 +11,7 @@
 
 - 👨‍💻 You can see some of my [projects](https://portfolio-ren0xxs-projects.vercel.app)
 
-- 📄 Know about my [experiences](https://rxresu.me/zaleski/adam-zaleski-english)
+- 📄 Know about my [experiences](https://drive.google.com/file/d/1khG4jrHLPVDk77FWePLsirAzmjJRmDV-/view)
 
 - 📫 How to reach me: **adamzaleski00@gmail.com**
 
