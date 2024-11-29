@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adam Załęski</h1>
 <h3 align="center">A versatile fullstack developer from Poland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ren0xx&label=Profile%20views&color=0e75b6&style=flat" alt="ren0xx" /> </p>
-
 - 🔭 I graduated in [Computer Science](https://wumed.edu.pl)
 
 - 🌱 I’m currently learning **T3 Stack, Next.js, Web Development, Nest.js**
